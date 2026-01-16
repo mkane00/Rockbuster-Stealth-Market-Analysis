@@ -25,6 +25,7 @@ Relational database with tables such as:
 - **SQL** (PostgreSQL)
 - Data dictionary / ERD (documentation)
 - Excel / Tableau (optional for visualization)
+- 🔗 **Tableau Dashboard:** [View here](https://public.tableau.com/views/1_10RockbusterStealthStorytelling/RockbusterPresentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🔍 Key Steps
 1. Database understanding (schema, relationships, data dictionary)
@@ -38,4 +39,4 @@ Relational database with tables such as:
 - High-value customers cluster in specific regions.
 - Certain genres/categories drive stronger rental performance.
 
-## 📁 Repository Structure
+
