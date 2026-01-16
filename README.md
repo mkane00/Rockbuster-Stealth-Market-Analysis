@@ -16,7 +16,7 @@ This project uses SQL to analyze sales, customers, and geographic trends to supp
 - Data dictionary / ERD (documentation)
 - 🔗 **Tableau Dashboard:** [View here](https://public.tableau.com/views/1_10RockbusterStealthStorytelling/RockbusterPresentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-📎 Presentation (PowerPoint): [Open here]https://docs.google.com/presentation/d/1O7E34Fe7Nmc87CP3mo7Kq5fIewrKF_E4/edit?usp=drive_link&ouid=110691879640799557777&rtpof=true&sd=true
+📎 Presentation (PowerPoint): [Open here] https://docs.google.com/presentation/d/1O7E34Fe7Nmc87CP3mo7Kq5fIewrKF_E4/edit?usp=drive_link&ouid=110691879640799557777&rtpof=true&sd=true
 
 ## 🔍 Key Steps
 1. Database understanding (schema, relationships, data dictionary)
