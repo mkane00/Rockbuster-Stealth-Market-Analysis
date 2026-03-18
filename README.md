@@ -23,7 +23,7 @@ Rockbuster Stealth is a fictional movie rental company preparing to transition f
 - Query design for business decision support
 
 ## 🔗 Project Resources
-- Tableau Dashboard: [View here](PASTE_TABLEAU_LINK_HERE)
+- Tableau Dashboard: [View here](https://public.tableau.com/shared/9R95KSR35?:display_count=n&:origin=viz_share_link)
 - Presentation: [Open here](https://docs.google.com/presentation/d/1O7E34Fe7Nmc87CP3mo7Kq5fIewrKF_E4/edit?usp=drive_link&ouid=110691879640799557777&rtpof=true&sd=true)
 
 ## 🔍 Key Steps
