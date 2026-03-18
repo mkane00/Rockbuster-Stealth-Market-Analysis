@@ -1,50 +1,52 @@
-# Rockbuster Stealth Market Analysis (SQL)
+# Rockbuster Market Analysis (SQL)
 
 ## 📌 Project Overview
-Rockbuster Stealth is a fictional movie rental company transitioning to an online video service.
-The analyst is responsible for identifying customers’ preferences, market differences and brand-building opportunities during the transition to Online rental services.  
-This project uses SQL to analyze sales, customers, and geographic trends to support strategic decision-making and market positioning.
+Rockbuster Stealth is a fictional movie rental company preparing to transition from a traditional rental model to an online video service. This project uses SQL to analyze customer behavior, sales performance, and geographic trends in order to support market expansion and strategic decision-making.
 
 ## 🎯 Business Questions
 - Which countries and cities generate the highest revenue?
 - Where are Rockbuster’s most valuable customers located?
-- What customer segments contribute most to sales?
+- Which customer segments contribute most to sales?
 - Which markets should be prioritized for expansion?
 
-## SQL Skills Demonstrated
+## 🛠️ Tools
+- SQL (PostgreSQL)
+- Data dictionary / ERD documentation
+- Tableau
+- PowerPoint
+
+## 🧠 SQL Skills Demonstrated
 - Multi-table joins
 - Aggregations and grouped business metrics
 - Geographic and customer segmentation analysis
+- Subqueries and CTEs
 - Query design for business decision support
 
-## 🛠️ Tools
-- **SQL** (PostgreSQL)
-- Data dictionary / ERD (documentation)
-- 🔗 **Tableau Dashboard:** [View here](https://public.tableau.com/views/1_10RockbusterStealthStorytelling/RockbusterPresentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-📎 Presentation (PowerPoint): [Open here] https://docs.google.com/presentation/d/1O7E34Fe7Nmc87CP3mo7Kq5fIewrKF_E4/edit?usp=drive_link&ouid=110691879640799557777&rtpof=true&sd=true
+## 🔗 Project Resources
+- Tableau Dashboard: [View here](PASTE_TABLEAU_LINK_HERE)
+- Presentation: [Open here](https://docs.google.com/presentation/d/1O7E34Fe7Nmc87CP3mo7Kq5fIewrKF_E4/edit?usp=drive_link&ouid=110691879640799557777&rtpof=true&sd=true)
 
 ## 🔍 Key Steps
-1. Database understanding (schema, relationships, data dictionary)
-2. Data cleaning checks (nulls, duplicates, consistency)
-3. SQL analysis: joins, aggregations, subqueries, CTEs
-4. Geographic and customer segmentation analysis
-5. Recommendations based on findings
+- Reviewed database schema, relationships, and data dictionary
+- Performed data quality checks for nulls, duplicates, and consistency
+- Wrote SQL queries using joins, aggregations, subqueries, and CTEs
+- Analyzed customer distribution, revenue, and geographic trends
+- Developed recommendations based on customer and market insights
 
 ## 📊 Key Insights
-- The top 5 customers of Asia had lower Customers Lifetime Value than Europe customers. Making Europe region generating the best revenue at the moment. With fewer customers, less frequent, but bigger sales.
-- These Markets of Interest have strong Genre preferences and high customer engagement, with significant revenue growth following Asia.
-- Emerging regions: High-value customers are fewer but can be leveraged for loyalty growth and genre-driven strategy
+- Europe generated the strongest overall revenue, supported by fewer but higher-value customers.
+- Asia showed strong customer activity and market potential, but top customers had lower lifetime value than those in Europe.
+- A small group of markets contributed a large share of total revenue, making them strong candidates for early expansion efforts.
+- Emerging markets had fewer high-value customers, but showed potential for loyalty growth and targeted genre-based strategies.
 
-## NEXT STEPS/RECOMMENDATIONS
+## 🚀 Recommendations
+- Prioritize top-performing films in the online catalog
+- Focus launch and marketing efforts on the top 10 revenue-generating markets
+- Develop loyalty strategies for high-value customers
+- Differentiate the online service through curated content and customer experience
+- Continue tracking performance across films, customers, and markets to support future decisions
 
-1. Prioritize high-performing films in the online catalog.
-
-2. Focus on Top 10 markets for launch & marketing campaigns.
-
-3. Develop loyalty programs for high-LTV customers.
-
-4. Differentiate online service via curated content & strong customer experience.
-
-5. Adopt ongoing data-driven tracking (films, customers, markets).
-
+## 👩‍💻 Author
+Mary Kane  
+Data Analyst | Healthcare & Operations Background  
+Bilingual: English / Spanish
