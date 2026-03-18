@@ -11,6 +11,12 @@ This project uses SQL to analyze sales, customers, and geographic trends to supp
 - What customer segments contribute most to sales?
 - Which markets should be prioritized for expansion?
 
+## SQL Skills Demonstrated
+- Multi-table joins
+- Aggregations and grouped business metrics
+- Geographic and customer segmentation analysis
+- Query design for business decision support
+
 ## 🛠️ Tools
 - **SQL** (PostgreSQL)
 - Data dictionary / ERD (documentation)
